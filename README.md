@@ -5,7 +5,7 @@ colorFrom: yellow
 colorTo: pink
 sdk: streamlit
 sdk_version: 1.36.0
-app_file: app.py
+app_file: sal_pred.py
 pinned: false
 ---
 
